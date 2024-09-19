@@ -6,3 +6,6 @@
 ```
 System.out.println("I love Java!");
 ```
+- [x] Preparatory course in Python
+- [ ] Preparatory course in Math
+- [ ] Unlove Java
